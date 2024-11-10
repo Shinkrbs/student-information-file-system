@@ -454,4 +454,3 @@ void save_data(std::filesystem::path dir, std::string file_name, std::vector <st
     else
         std::cout << "Unable to Save Information to File.\n";
 }
-// Coded By: Shn Kerby C. Dolamos
