@@ -1,4 +1,4 @@
-# Simple Student Record Management System (C++)
+# Student Information File System (C++)
 
 This is a basic console application written in C++ for managing student records. It allows users to perform fundamental CRUD (Create, Read, Update, Delete) operations on student data, which is stored in `.txt` files.
 
